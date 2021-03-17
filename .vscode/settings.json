@@ -1,5 +1,0 @@
-{
-    "appService.showBuildDuringDeployPrompt": false,
-    "appService.deploySubpath": ".",
-    "appService.defaultWebAppToDeploy": "/subscriptions/50c93411-1e5e-4c52-8cc9-88fc23c90991/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/healthcareBot-demo"
-}
